@@ -1,0 +1,45 @@
+body{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+.cab{
+    background-color: rgb(29, 25, 25);
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    font-size: 0.5em;
+    color: whitesmoke
+}
+
+div.voltar{
+    float:left;
+    padding: 10px;
+    }
+
+
+
+ div.principal{
+    
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 6px solid rgb(117, 109, 109);;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color:white;
+    width: 80%;
+    padding:none;
+    overflow: auto;
+    
+    }
+
+div>h1{
+margin-top:20px;
+}
+#submit{
+    padding: 10px;
+    margin: 10PX;
+    background-color: rgb(117, 109, 109);
+    color:bold;
+    border-radius: 10px;
+    text-align: left;
+}
